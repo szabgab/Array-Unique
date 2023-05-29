@@ -3,6 +3,8 @@ package Array::Unique::Hash;
 use strict;
 use warnings;
 
+our $VERSION = '0.09';
+
 sub new {
     TIEARRAY(@_);
 }

@@ -3,6 +3,8 @@ package Array::Unique::Std;
 use strict;
 use warnings;
 
+our $VERSION = '0.09';
+
 use Tie::Array;
 #use base qw(Tie::StdArray);
 our @ISA;

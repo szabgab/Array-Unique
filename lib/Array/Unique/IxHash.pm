@@ -4,6 +4,8 @@ package Array::Unique::IxHash;
 use strict;
 use warnings;
 
+our $VERSION = '0.09';
+
 use Tie::IxHash;
 
 sub _init {

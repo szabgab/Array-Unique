@@ -4,6 +4,8 @@ use strict;
 use warnings;
 use Carp;
 
+our $VERSION = '0.09';
+
 sub _init {
     my $self = shift;
 
