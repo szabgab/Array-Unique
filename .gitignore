@@ -1,0 +1,10 @@
+Build
+MANIFEST
+MYMETA.*
+META.*
+_build/
+blib/
+Array-Unique-*
+*.bak
+Makefile.PL
+README
